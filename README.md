@@ -1,6 +1,6 @@
 # AVALIACAO_A1
 
-Nessa avaliação, foi solicitado que seja feito 4 tipos de programas, sendo cobrado as seguintes estruturas:
+Nessa avaliação, foi solicitado fazer 4 tipos de programas, sendo cobrado as seguintes estruturas:
 -
 * ESTRUTUTAS CONDICIONAIS:
 * ESTRUTURAS DE REPETIÇÃO:
